@@ -36,4 +36,4 @@ serde = { version = "1.0.114", optional = true, default-features = false, featur
 features = ["sha1"]
 
 [dev-dependencies]
-tempfile = "3.26.0"
+tempfile = "3.27.0"

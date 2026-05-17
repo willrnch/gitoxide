@@ -41,7 +41,7 @@ windows-sys = { version = "0.61.1", features = [
 ] }
 
 [dev-dependencies]
-tempfile = "3.26.0"
+tempfile = "3.27.0"
 
 [package.metadata.docs.rs]
 all-features = true
